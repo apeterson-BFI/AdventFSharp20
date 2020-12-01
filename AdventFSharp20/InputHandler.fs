@@ -23,4 +23,3 @@ module InputHandler =
         match test with
         | true -> sprintf "day%isample.txt" dayn
         | false -> sprintf "day%iinput.txt" dayn
-
